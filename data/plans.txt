@@ -1,0 +1,5 @@
+Synthetic Gold PPO. Individual deductible: $1,000. Primary care visit: $25 copay. Specialist visit: $50 copay. Emergency department: $250 copay after deductible. Generic prescriptions: $15 copay. Out-of-pocket maximum: $6,500.
+
+Synthetic Silver HMO. Individual deductible: $2,500. Primary care visit: $35 copay. Specialist visit: $70 copay with referral. Emergency department: $400 copay after deductible. Generic prescriptions: $20 copay. Out-of-pocket maximum: $8,000.
+
+Synthetic Bronze HSA. Individual deductible: $4,500. Most non-preventive services are subject to deductible then 20% coinsurance. Preventive in-network care is covered at 100%. Out-of-pocket maximum: $7,500.
